@@ -29,17 +29,3 @@ DuiLib_Ultimate是DuiLib库的增强拓展版，库修复了大量用户在使�
 8、修正大量Bug：RichEdit输入变化消息、Combo字体设置、Button自动布局、控件右下边框绘制不完全、菜单控件崩溃等；
 
 9、项目内置各种使用例子与编译选项（多字节Unicode，静态库和动态库）
-
-#### **作者简介** 
-网名troy、qdtroy，qq：656067418，微信：qdtroy
-
-duilib开源项目圈（QQ群）：261675375、261851826
-
-##### **项目支持** 
-1、微信：qdtroy
-
-2、支付宝：qdtroy@qq.com
-
-![欢迎捐助](https://github.com/qdtroy/DuiLib_Ultimate/blob/master/Help/qdtroy_alipay.png)  
-
-3、入门学习指导、项目技术支持、产品UI定制请联系Troy（QQ：656067418）
